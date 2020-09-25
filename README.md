@@ -7,7 +7,7 @@ No lo he probado con los ultimos cambios realizados por Plex
 
 Instalación:<br/>
 * Ir a la carpeta Library/Application Support/Plex Media Server/Plug-ins/ en mi caso en ubuntu se encuentra en ../var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-ins<br/>
-* Remover cualquier version antigua que se encuentre en esa carpeta (rm -r AnimeMeta.bundle).<br/>
+* Remover cualquier version antigua de AnimeMeta.bundle que se encuentre en esa carpeta (rm -r AnimeMeta.bundle).<br/>
 * Descargar el Bundle mas reciente.<br/>
 * Descomprimirlo pues al descargar de git deberia estar como ZIP, ingresar dentro de la carpeta AnimeMeta.bundle-master, dentro de la carpeta deberia haber un archivo README.md y AnimeMeta.bundle.<br/> 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60912834/94304762-742b2680-ff46-11ea-99f9-440e77b31ebe.gif)<br/> 
