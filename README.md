@@ -11,7 +11,7 @@ Instalacion:
 
 -Remover cualquier version antigua (rm -r AnimeMeta.bundle).<br/>
 -Descargar el Bundle mas reciente.<br/>
--Descomprimirlo pues al descargar de git deberia estar como ZIP.<br/> 
+-Descomprimirlo pues al descargar de git deberia estar como ZIP y cambiar el nombre de AnimeMeta.bundle-master a AnimeMeta.bundle.<br/> 
 -Reiniciar tu plex media server.<br/>
 
 Uso:
