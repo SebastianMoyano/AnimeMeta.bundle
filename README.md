@@ -3,7 +3,6 @@ Para instalar este plugin se debe copiar el bundle a la carpeta
 Plugins de Plex,
 Este plugin lo modifique de uno usado para musica y la verdad no lo he actualizado desde entonces, hasta ahora no parece tener problemas
 
-No lo he probado con los ultimos cambios realizados por Plex
 
 Instalación:<br/>
 * Ir a la carpeta Library/Application Support/Plex Media Server/Plug-ins/ en mi caso en ubuntu se encuentra en ../var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-ins<br/>
