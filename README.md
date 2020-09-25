@@ -9,13 +9,13 @@ Instalacion:
 
 -Ir a la carpeta Library/Application Support/Plex Media Server/Plug-ins/
 
--Remover cualquier version antigua (rm -r AnimeMeta.bundle). 
--Descargar el Bundle mas reciente  
--Descomprimirlo pues al descargar de git deberia estar como ZIP. 
--Reiniciar tu plex media server. 
+-Remover cualquier version antigua (rm -r AnimeMeta.bundle).<br/>
+-Descargar el Bundle mas reciente.<br/>
+-Descomprimirlo pues al descargar de git deberia estar como ZIP.<br/> 
+-Reiniciar tu plex media server.<br/>
 
 Uso:
 
-Ir a Settings -> Server -> Agents -> Movies/TV Shows. 
-Activar el plugin. 
-Refrescar tu libreria (o Pelicula/serie individual).  
+Ir a Settings -> Server -> Agents -> Movies/TV Shows.<br/> 
+Activar el plugin.<br/> 
+Refrescar tu libreria (o Pelicula/serie individual).<br/> 
